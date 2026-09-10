@@ -1,5 +1,5 @@
 # StrongTraceConjecture
-Code for the paper "The computational ansatz for convex integration of hyperbolic systems and a resolution of the Strong Trace Conjecture"
+MATLAB code and associated files for the paper "The computational ansatz for convex integration of hyperbolic systems and a resolution of the Strong Trace Conjecture" [https://arxiv.org/abs/2609.09353](https://arxiv.org/abs/2609.09353)
 
 basis_state_space.m -- This script calculates the basis for the tangent space of \mathcal{K}_{F,\eta,q}
 
@@ -38,3 +38,36 @@ T4_GNL_System.tex -- LaTeX source of the (still unverified) argument from ChatGP
 TN_rank_one_GNL.pdf -- PDF of the (still unverified) argument from ChatGPT 5.6 Pro for a 2x2 strictly hyperbolic and genuinely system with rank-one connections.
 
 TN_rank_one_GNL.zip -- LaTeX and python source of the (still unverified) argument from ChatGPT 5.6 Pro for a 2x2 strictly hyperbolic and genuinely  system with rank-one connections.
+
+
+## Citation
+ 
+ Cite the Zenodo DOI:
+ 
+[![DOI](https://zenodo.org/badge/1361562910.svg)](https://doi.org/10.5281/zenodo.22694460)
+
+
+If you use the code, please also cite the associated paper:
+ 
+```bibtex
+@ARTICLE{2026arXiv260909353K,
+       author = {{Krupa}, Sam G.},
+        title = "{The computational ansatz for convex integration of hyperbolic systems and a resolution of the Strong Trace Conjecture}",
+      journal = {arXiv e-prints},
+     keywords = {Analysis of PDEs},
+         year = 2026,
+        month = sep,
+          eid = {arXiv:2609.09353},
+        pages = {arXiv:2609.09353},
+archivePrefix = {arXiv},
+       eprint = {2609.09353},
+ primaryClass = {math.AP},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2026arXiv260909353K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
+ 
+S. G. Krupa.
+The computational ansatz for convex integration of hyperbolic systems and a resolution of the Strong Trace Conjecture.
+[https://arxiv.org/abs/2609.09353](https://arxiv.org/abs/2609.09353) (2026)
+
